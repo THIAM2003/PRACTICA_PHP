@@ -72,6 +72,7 @@ var_dump($data);
     <?php endforeach; ?>
 </ul>
 
+//cambio
 <section>
     <img src=<?= $data["poster_url"]; ?>, width="200", alt="Poster de <?= $data["title"];?>" >  
 </section>
