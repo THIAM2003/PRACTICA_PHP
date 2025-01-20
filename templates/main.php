@@ -5,6 +5,6 @@
 
     <hgroup>
         <h3><?=$title; ?> - <?= $until_Message;?></h3>
-        <p>La siguiente pelicula es: <?=$following_production["title"];?></p>
+        <p>La siguiente pelicula es: <?=$following_production;?></p>
     </hgroup>
 </main> 
